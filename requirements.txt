@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+keras
+scikit-learn 
+scipy 
+matplotlib
+tensorflow_hub
